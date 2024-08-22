@@ -10,7 +10,7 @@ namespace Inlämning_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej och välkommen!, skriv in ditt namn nedan.");
+            Console.WriteLine("Hej och välkommen till IT-Högskolan!, skriv in ditt namn nedan.");
             String name = Console.ReadLine();
             Console.WriteLine($" Hej {name}");
             Console.WriteLine("Skriv sedan in din ålder så ska jag räkna ut vilket år du är född :)");
